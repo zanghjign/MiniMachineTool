@@ -1,2 +1,10 @@
-<!DOCTYPE RCC>
-<RCC version="1.0"/>
+<RCC>
+    <qresource prefix="/images">
+        <file>border.png</file>
+        <file>h1.png</file>
+        <file>h2.png</file>
+        <file>metal.png</file>
+        <file>metal-h.png</file>
+        <file>metal-r.png</file>
+    </qresource>
+</RCC>

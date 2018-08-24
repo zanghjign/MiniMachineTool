@@ -1,2 +1,14 @@
-<!DOCTYPE RCC>
-<RCC version="1.0"/>
+<RCC>
+    <qresource prefix="/icons">
+        <file>dec.png</file>
+        <file>dec_h.png</file>
+        <file>dec_r.png</file>
+        <file>inc.png</file>
+        <file>inc_h.png</file>
+        <file>inc_r.png</file>
+        <file>reset.png</file>
+        <file>reset_h.png</file>
+        <file>reset_r.png</file>
+        <file>none.png</file>
+    </qresource>
+</RCC>
